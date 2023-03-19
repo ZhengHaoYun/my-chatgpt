@@ -473,7 +473,6 @@ export default function (props: {
           </div>
         </Show>
       </div>
-      <a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2023005359号</a>
     </div>
   )
 }
