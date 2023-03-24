@@ -491,6 +491,15 @@ export default function (props: {
               />
             </div>
           </div>
+          <footer class="flex justify-center items-center h-16 ">
+            <a
+                href="https://beian.miit.gov.cn/"
+                target="_blank"
+                class="text-gray-500 text-sm"
+            >
+              湘ICP备2023005359号
+            </a>
+          </footer>
         </Show>
       </div>
     </div>
