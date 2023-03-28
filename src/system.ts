@@ -10,7 +10,7 @@ export const defaultSetting = {
   model: "gpt-3.5-turbo" as Model
 }
 
-export const message = `- Hello, what can I do for you?
+export const defaultMessage = `- Hello, what can I do for you?
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。点击输入框滚动到底部。`
 
 export type Setting = typeof defaultSetting
